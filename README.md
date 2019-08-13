@@ -1,5 +1,5 @@
 # print_test
-주기적으로 랜덤 이미지를 프린트하는 스크립트입니다.
+랜덤 이미지를 프린트하는 스크립트입니다.
 
 # Requirements
 1. windows
