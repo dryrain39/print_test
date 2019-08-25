@@ -1,6 +1,6 @@
 @echo off
 echo --------------------------------------------------------
-echo Auto print script. ÀÛ¾÷ÀÌ ³¡³ª¸é Ã¢ÀÌ ÀÚµ¿À¸·Î ´İÈü´Ï´Ù.
+echo Auto print script. ì‘ì—…ì´ ëë‚˜ë©´ ì°½ì´ ìë™ìœ¼ë¡œ ë‹«í™ë‹ˆë‹¤.
 echo --------------------------------------------------------
-wget --output-document=C:\print_test\cat.jpg "https://cataas.com/cat" 
+C:\print_test\wget --output-document=C:\print_test\cat.jpg "https://cataas.com/cat" 
 rundll32 C:\WINDOWS\system32\shimgvw.dll,ImageView_PrintTo "C:\print_test\cat.jpg" "your_printer_name"
