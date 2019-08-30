@@ -1,5 +1,5 @@
 # print_test
-랜덤 이미지를 프린트하는 스크립트입니다.
+랜덤 고양이 이미지를 프린트하는 스크립트입니다.
 
 ## Requirements
 1. windows
@@ -8,4 +8,4 @@
 ## Installation
 1. Put run.bat and wget.exe in C:\print_test\
 2. Open run.bat and edit "your_printer_name" to your printer name.
-3. Run it(task scheduler)!
+3. Run it(task scheduler)! 
